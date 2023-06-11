@@ -1,0 +1,12 @@
+{
+    "ip":"192.168.0.102",
+    "port": 33061,
+    "userName" : "root",
+    "password": "rsroot",
+    "dbName" : "qgydb",
+    "minSize":100, 
+    "maxSize": 1024,
+    "maxIdleTime" : 5000,
+    "timeout": 1000
+}
+    
